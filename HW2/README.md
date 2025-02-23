@@ -27,73 +27,49 @@ Simple Baseline : 0.68334
 ## Loss & Accuracy for Each Experiment
 
 ### original
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1; text-align: center;">
-        <strong>Loss</strong><br>
-        <img src="result_plot/original_loss.png" width="45%">
-    </div>
-    <div style="flex: 1; text-align: center;">
-        <strong>Accuracy</strong><br>
-        <img src="result_plot/original_acc.png width="45%">
-    </div>
-</div>
+<table>
+  <tr>
+    <td><img src="result_plot/original_loss.png" width="50%"></td>
+    <td><img src="result_plot/original_acc.png" width="50%"></td>
+  </tr>
+</table>
 
 ### #5
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1; text-align: center;">
-        <strong>Loss</strong><br>
-        <img src="result_plot/#5_loss.png" width="45%">
-    </div>
-    <div style="flex: 1; text-align: center;">
-        <strong>Accuracy</strong><br>
-        <img src="result_plot/#5_acc.png" width="45%">
-    </div>
-</div>
+<table>
+  <tr>
+    <td><img src="result_plot/%235_loss.png" width="50%"></td>
+    <td><img src="result_plot/%235_acc.png" width="50%"></td>
+  </tr>
+</table>
 
 ### #6
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1; text-align: center;">
-        <strong>Loss</strong><br>
-        <img src="result_plot/#6_loss.png" width="45%">
-    </div>
-    <div style="flex: 1; text-align: center;">
-        <strong>Accuracy</strong><br>
-        <img src="result_plot/#6_acc.png" width="45%">
-    </div>
-</div>
+<table>
+  <tr>
+    <td><img src="result_plot/%236_loss.png" width="50%"></td>
+    <td><img src="result_plot/%236_acc.png" width="50%"></td>
+  </tr>
+</table>
 
 ### #7
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1; text-align: center;">
-        <strong>Loss</strong><br>
-        <img src="result_plot/#7_loss.png" width="45%">
-    </div>
-    <div style="flex: 1; text-align: center;">
-        <strong>Accuracy</strong><br>
-        <img src="result_plot/#7_acc.png" width="45%">
-    </div>
-</div>
+<table>
+  <tr>
+    <td><img src="result_plot/%237_loss.png" width="50%"></td>
+    <td><img src="result_plot/%237_acc.png" width="50%"></td>
+  </tr>
+</table>
 
 ### #8
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1; text-align: center;">
-        <strong>Loss</strong><br>
-        <img src="result_plot/#8_loss.png" width="45%">
-    </div>
-    <div style="flex: 1; text-align: center;">
-        <strong>Accuracy</strong><br>
-        <img src="result_plot/#8_acc.png" width="45%">
-    </div>
-</div>
+<table>
+  <tr>
+    <td><img src="result_plot/%238_loss.png" width="50%"></td>
+    <td><img src="result_plot/%238_acc.png" width="50%"></td>
+  </tr>
+</table>
 
 ### #9
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1; text-align: center;">
-        <strong>Loss</strong><br>
-        <img src="result_plot/#9_loss.png" width="45%">
-    </div>
-    <div style="flex: 1; text-align: center;">
-        <strong>Accuracy</strong><br>
-        <img src="result_plot/#9_acc.png" width="45%">
-    </div>
-</div>
+<table>
+  <tr>
+    <td><img src="result_plot/%239_loss.png" width="50%"></td>
+    <td><img src="result_plot/%239_acc.png" width="50%"></td>
+  </tr>
+</table>
