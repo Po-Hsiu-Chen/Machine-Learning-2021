@@ -1,23 +1,25 @@
 ##  Dataset
 Dataset 存放於 Hugging Face：[檔案位置](https://huggingface.co/datasets/pollychen/ML2021-HW3-Dataset/tree/main)
 
+```
 food-11.zip  
 food-11/
 │── traitraining/  
-│   ├── labeled/
-│   │   ├── 00/
-│   │   ├── 01/
-│   │   ├── ...
-│   │   └── 10/
-│   ├── unlabeled/
-│   │   └── 00/
+│   ├── labeled/  
+│   │   ├── 00/  
+│   │   ├── 01/  
+│   │   ├── ...  
+│   │   └── 10/  
+│   ├── unlabeled/  
+│   │   └── 00/  
 │── validation/   
-│   ├── 00/
-│   ├── 01/
-│   ├── ...
-│   └── 10/ 
+│   ├── 00/  
+│   ├── 01/  
+│   ├── ...  
+│   └── 10/  
 └── testing/  
-    └── 00/
+    └── 00/  
+```
 
 ##  Baseline  
 Strong Baseline : 0.82138  
