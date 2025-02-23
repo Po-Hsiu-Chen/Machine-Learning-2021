@@ -29,10 +29,11 @@ Simple Baseline : 0.44862
 ##  Kaggle Testing 
 | #  | Experiment                                                          | Private Score | Public Score |
 |----|-----------------------------------------------------------------|--------------|-------------|
-| 1  | **Original**                                                   | 0.47878      | 0.47789     |
-| 2  | **1. Data Augmentation**                                                    | 0.56903      | 0.56391     |
-| 3  | **1. Data Augmentation** <br> **2. Conv Layer 3 → 5**                  | 0.58158      | 0.61827     |
+| 1  | **Original**                                              | 0.47878      | 0.47789     |
+| 2  | **1. Data Augmentation**                                  | 0.56903      | 0.56391     |
+| 3  | **1. Data Augmentation** <br> **2. Conv Layer 3 → 5**     | 0.58158      | 0.61827     |
 | 4  | **1. Data Augmentation** <br> **2. Conv Layer 3 → 5**   <br> **3. FC Layer Dropout(0.6、0.4)**                 | 0.60011      | 0.57646     |
+| 5  | **1. Data Augmentation** <br> **2. Conv Layer 3 → 5**   <br> **3. Semi-supervised learning (threshold=0.8)**                 | 0.61506      | 0.61947     |
 
 ## Loss & Accuracy for Each Experiment
 
@@ -68,3 +69,10 @@ Simple Baseline : 0.44862
   </tr>
 </table>
 
+### #5
+<table>
+  <tr>
+    <td><img src="result_plot/%235_loss.png" width="50%"></td>
+    <td><img src="result_plot/%235_acc.png" width="50%"></td>
+  </tr>
+</table>
