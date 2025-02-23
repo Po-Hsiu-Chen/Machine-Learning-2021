@@ -1,11 +1,13 @@
 ##  Dataset
 Dataset 存放於 Hugging Face：[檔案位置](https://huggingface.co/datasets/pollychen/ML2021-HW2-Dataset/tree/main)
 
+```
 data.zip  
 timit_11/  
 │── train_11.npy    
 │── train_label_11.npy    
 └── test_11.npy  
+```
 
 ##  Baseline  
 Strong Baseline : 0.76023  
