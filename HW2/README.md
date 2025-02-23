@@ -1,5 +1,5 @@
 ##  Dataset
-Dataset 存放於 Hugging Face：[檔案位置](https://huggingface.co/datasets/pollychen/ML2021-HW2-Dataset)
+Dataset 存放於 Hugging Face：[檔案位置](https://huggingface.co/datasets/pollychen/ML2021-HW2-Dataset/tree/main)
 
 data.zip  
 timit_11/  
